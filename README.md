@@ -8,7 +8,7 @@
   * [step2传送们](https://github.com/primeNumberAndMe/OsSummerCamp-Log/tree/main/step2%EF%BC%9A%E5%BC%80%E5%8F%91%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
 * [Documents](https://github.com/primeNumberAndMe/OsSummerCamp-Log/tree/main/documents)文件夹存放第一阶段的总体安排以及每日记录。
-* [pic]()文件夹存放图片，将GitHub当作图床用。
+* [pic](https://github.com/primeNumberAndMe/OsSummerCamp-Log/tree/main/pic)文件夹存放图片，将GitHub当作图床用。
 * README .md即您正在查看的此文稿。
 
 ### 了解此项目的进展
