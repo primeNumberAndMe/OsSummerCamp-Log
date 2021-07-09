@@ -20,7 +20,7 @@ trait AppendBar {
 impl AppendBar for Vec<String>{
     fn append_bar(self) -> Self{
         let mut temp = self;
-        temp.push("bar".into());
+        temp.push("Bar".into());
         temp
     }
 }

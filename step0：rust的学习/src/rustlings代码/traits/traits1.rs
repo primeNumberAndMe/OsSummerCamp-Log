@@ -17,7 +17,7 @@ trait AppendBar {
 impl AppendBar for String {
     fn append_bar(self) -> Self{
         let mut temp = self;
-        temp.push_str("bar");
+        temp.push_str("Bar");
         temp
     }
 }
